@@ -8,13 +8,7 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 ## 📦 Toolbox
 
 Front-end development: :grinning:
-omd | mpp -so +-- -sc =-- <<EOF
-<div class="foo bar">+-- cmd omd
-1. hello
-2. world
-42. boo
-=--</div>
-EOF
+<kjh>
 
 ## Let's Connect!
 
