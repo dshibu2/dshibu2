@@ -7,12 +7,15 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 
 ## 📦 Toolbox
 
-- Java
-- JavaScript
-- React
-- Node.js
-- HTML/CSS
-
+Front-end development:
+HTML5
+CSS3
+JavaScript
+TypeScript
+React
+JFrame
+JavaFX
+Spring
 
 ## Let's Connect!
 
@@ -20,7 +23,7 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 
 ## Skills
 
-- Python ![Python](https://img.shields.io/badge/-Python-yellow)
+- Java ![Java](https://img.shields.io/badge/-Python-yellow)
 - JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-blue)
 - React ![React](https://img.shields.io/badge/-React-blue)
 - Node.js ![Node.js](https://img.shields.io/badge/-Node.js-green)
