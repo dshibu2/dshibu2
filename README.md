@@ -8,8 +8,23 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 ## 📦 Toolbox
 
 Front-end development: :grinning:
+!!! example
 
+    === "Unordered List"
 
+        ``` markdown
+        * Sed sagittis eleifend rutrum
+        * Donec vitae suscipit est
+        * Nulla tempor lobortis orci
+        ```
+
+    === "Ordered List"
+
+        ``` markdown
+        1. Sed sagittis eleifend rutrum
+        2. Donec vitae suscipit est
+        3. Nulla tempor lobortis orci
+        ```
 
 ## Let's Connect!
 
