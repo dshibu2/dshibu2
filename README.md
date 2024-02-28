@@ -1,6 +1,7 @@
 ### Hi there, I'm Diya 👋
 
 I'm a Full Stack Developer based in the U.S., located in Chicago, and I'm passionate about crafting digital experiences.
+Being a hands-on learner, I prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
 
 Check out my website to learn more about me.
 
