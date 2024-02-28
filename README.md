@@ -26,16 +26,6 @@
 📫 Feel free to reach out to me through: [LinkedIn](https://www.linkedin.com/in/diya-shibu-1a9s9d7f)
 
 
-## Skills
-
-<div style="display: flex; flex-direction: row;">
-  <div style="background-color: #f0db4f; color: #000; padding: 10px; margin-right: 10px; border-radius: 5px;">Python</div>
-  <div style="background-color: #61dbfb; color: #000; padding: 10px; margin-right: 10px; border-radius: 5px;">JavaScript</div>
-  <div style="background-color: #61dafb; color: #000; padding: 10px; margin-right: 10px; border-radius: 5px;">React</div>
-  <div style="background-color: #68a063; color: #fff; padding: 10px; margin-right: 10px; border-radius: 5px;">Node.js</div>
-  <div style="background-color: #f16529; color: #fff; padding: 10px; margin-right: 10px; border-radius: 5px;">HTML/CSS</div>
-</div>
-
 
 
 Frontend Development: React Next.js TypeScript Tailwind Material-UI Framer-Motion
