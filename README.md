@@ -7,16 +7,7 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 
 ## 📦 Toolbox
 
-Front-end development:
-## Skills
-
-<table>
-  <tr>
-    <td style="background-color: #f0f0f0; color: #333; border: 1px solid #ccc; padding: 5px 10px; border-radius: 5px;">Skill 1</td>
-    <td style="background-color: #f0f0f0; color: #333; border: 1px solid #ccc; padding: 5px 10px; border-radius: 5px;">Skill 2</td>
-    <td style="background-color: #f0f0f0; color: #333; border: 1px solid #ccc; padding: 5px 10px; border-radius: 5px;">Skill 3</td>
-  </tr>
-</table>
+Front-end development: :grinning:
 
 
 
