@@ -6,6 +6,15 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 <br />Being a hands-on learner, I prefer learning new technologies through development, constantly exploring and tinkering with technology to build exciting projects, read tech blogs and solve problems on Data Structures and Algorithms.
 
 ## 📦 Toolbox
+| **Others**      | 
+|-----------------|
+| Storybook       | 
+| Zustand         | 
+| A11y            | 
+| Scrum           | 
+| Confluence      | 
+| Jira            |
+
 
 Front-end development: :grinning:
 <div style="background-color: #f0f0f0; padding: 20px;">
