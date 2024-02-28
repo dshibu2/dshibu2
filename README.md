@@ -8,11 +8,14 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 ## 📦 Toolbox
 
 Front-end development:
-<div style="display: flex;">
-    <div style="background-color: #f0f0f0; color: #333; border: 1px solid #ccc; padding: 5px 10px; margin-right: 10px; border-radius: 5px;">Skill 1</div>
-    <div style="background-color: #f0f0f0; color: #333; border: 1px solid #ccc; padding: 5px 10px; margin-right: 10px; border-radius: 5px;">Skill 2</div>
-    <div style="background-color: #f0f0f0; color: #333; border: 1px solid #ccc; padding: 5px 10px; margin-right: 10px; border-radius: 5px;">Skill 3</div>
+## Skills
+
+<div>
+  <span style="background-color: #f0f0f0; color: #333; border: 1px solid #ccc; padding: 5px 10px; margin-right: 10px; border-radius: 5px;">Skill 1</span>
+  <span style="background-color: #f0f0f0; color: #333; border: 1px solid #ccc; padding: 5px 10px; margin-right: 10px; border-radius: 5px;">Skill 2</span>
+  <span style="background-color: #f0f0f0; color: #333; border: 1px solid #ccc; padding: 5px 10px; margin-right: 10px; border-radius: 5px;">Skill 3</span>
 </div>
+
 
 ## Let's Connect!
 
