@@ -8,7 +8,7 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 ## 📦 Toolbox
 
 Front-end development:
-(https://img.shields.io/badge/-Java-yellow)
+[Java](https://img.shields.io/badge/-Java-yellow)
 HTML5
 CSS3
 JavaScript
