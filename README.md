@@ -8,13 +8,10 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 ## 📦 Toolbox
 
 Front-end development: :grinning:
-!!! example
 
-???+ note
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+::: #warning
+*here be dragons*
+:::
 
 ## Let's Connect!
 
