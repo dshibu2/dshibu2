@@ -10,21 +10,11 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 Front-end development: :grinning:
 !!! example
 
-    === "Unordered List"
+???+ note
 
-        ``` markdown
-        * Sed sagittis eleifend rutrum
-        * Donec vitae suscipit est
-        * Nulla tempor lobortis orci
-        ```
-
-    === "Ordered List"
-
-        ``` markdown
-        1. Sed sagittis eleifend rutrum
-        2. Donec vitae suscipit est
-        3. Nulla tempor lobortis orci
-        ```
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
+    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
+    massa, nec semper lorem quam in massa.
 
 ## Let's Connect!
 
