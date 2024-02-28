@@ -1,9 +1,6 @@
 
 
-## Hello World, I'm Diya <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="40">
-
-# Hello, World! <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="30">
-
+# Hello World, I'm Diya <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="40">
 
 I'm a Full Stack Developer based in the U.S., located in Chicago, and I'm passionate about crafting digital experiences.<br />
 <br />Being a hands-on learner, I prefer learning new technologies through development. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
