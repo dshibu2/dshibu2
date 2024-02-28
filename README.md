@@ -18,18 +18,13 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 
 📫 Feel free to reach out to me through: [LinkedIn](https://www.linkedin.com/in/diya-shibu-1a9s9d7f)
 
-
-
-
 ## Skills
 
-<div style="display: flex; flex-direction: row;">
-  <div style="background-color: #f0db4f; color: #000; padding: 10px; margin-right: 10px; border-radius: 5px;">Python</div>
-  <div style="background-color: #61dbfb; color: #000; padding: 10px; margin-right: 10px; border-radius: 5px;">JavaScript</div>
-  <div style="background-color: #61dafb; color: #000; padding: 10px; margin-right: 10px; border-radius: 5px;">React</div>
-  <div style="background-color: #68a063; color: #fff; padding: 10px; margin-right: 10px; border-radius: 5px;">Node.js</div>
-  <div style="background-color: #f16529; color: #fff; padding: 10px; margin-right: 10px; border-radius: 5px;">HTML/CSS</div>
-</div>
+- Python ![Python](https://img.shields.io/badge/-Python-yellow)
+- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-blue)
+- React ![React](https://img.shields.io/badge/-React-blue)
+- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-green)
+- HTML/CSS ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange)
 
 <!--
 **dshibu2/dshibu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
