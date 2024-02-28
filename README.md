@@ -6,13 +6,7 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 <br />Being a hands-on learner, I prefer learning new technologies through development, constantly exploring and tinkering with technology to build exciting projects, read tech blogs and solve problems on Data Structures and Algorithms.
 
 ## 📦 Toolbox
-**Storybook** | **Zustand** | **A11y** | **Scrum** | **Confluence** | **Jira**
-<div style="display: inline-block; border: 1px solid black; padding: 5px; margin-right: 5px;">**Storybook**</div>
-<div style="display: inline-block; border: 1px solid black; padding: 5px; margin-right: 5px;">**Zustand**</div>
-<div style="display: inline-block; border: 1px solid black; padding: 5px; margin-right: 5px;">**A11y**</div>
-<div style="display: inline-block; border: 1px solid black; padding: 5px; margin-right: 5px;">**Scrum**</div>
-<div style="display: inline-block; border: 1px solid black; padding: 5px; margin-right: 5px;">**Confluence**</div>
-<div style="display: inline-block; border: 1px solid black; padding: 5px; margin-right: 5px;">**Jira**</div>
+Storybook | Zustand | **A11y** | **Scrum** | **Confluence** | **Jira**
 
 
 
