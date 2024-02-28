@@ -18,14 +18,6 @@ Front-end development: :grinning:
 
 📫 Feel free to reach out to me through: [LinkedIn](https://www.linkedin.com/in/diya-shibu-1a9s9d7f)
 
-## Skills
-
-- Java ![Java](https://img.shields.io/badge/-Python-yellow)
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-blue)
-- React ![React](https://img.shields.io/badge/-React-blue)
-- Node.js ![Node.js](https://img.shields.io/badge/-Node.js-green)
-- HTML/CSS ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-orange)
-
 <!--
 **dshibu2/dshibu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
