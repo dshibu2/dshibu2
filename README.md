@@ -23,7 +23,7 @@
 
 ## Let's Connect!
 
-📫 Feel free to reach out to me through: [LinkedIn](linkedin.com/in/diya-shibu-1a9s9d7f)
+📫 Feel free to reach out to me through: [LinkedIn](https://www.linkedin.com/in/diya-shibu-1a9s9d7f)
 
 
 Frontend Development: React Next.js TypeScript Tailwind Material-UI Framer-Motion
