@@ -1,7 +1,7 @@
 
 
 # Hello World, I'm Diya
-Welcome to my GitHub universe! 🚀
+Welcome to my GitHub universe! 🚀<br />
 I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate about crafting digital experiences.<br />
 Being a hands-on learner, I prefer learning new technologies through development, constantly exploring and tinkering with technology to build exciting projects, read tech blogs and solve problems on Data Structures and Algorithms.
 
