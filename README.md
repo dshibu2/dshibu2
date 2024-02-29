@@ -7,17 +7,12 @@ Being a hands-on learner, I prefer learning new technologies through development
 
 ## 📦 Toolbox
 **Frontend Development:** `React` `HTML5` `CSS3` `JavaScript` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion` 
-
 **Version Control:** `Git` `GitLab` `Bitbucket`
-
 **Backend Development:** `Java` `SQL` `NoSQL` `Microservices` `Nest.js` `GraphQL` `Firebase` `AWS` `JDBC` `JNDI`
-
 **Testing:** `JUnit` `Jasmine` `Karma` `Postman` 
-
 **Others:** `GitHub` `Selenium` `Scrum` `Jira`
 
 ## 📫 Let's Connect!
-
 Feel free to reach out to me through: [LinkedIn](https://www.linkedin.com/in/diya-shibu-1a9s9d7f)
 
 <!--
