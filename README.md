@@ -6,23 +6,15 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 Being a hands-on learner, I prefer learning new technologies through development, constantly exploring and tinkering with technology to build exciting projects, read tech blogs and solve problems on Data Structures and Algorithms.
 
 ## 📦 Toolbox
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
- 
+**Frontend Development:** `React` `HTML5` `CSS3` `JavaScript` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion` 
+
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
-**Backend Development:** `Nest.js` `GraphQL` `Firebase` 
+**Backend Development:** `Java` `SQL` `NoSQL` `Microservices` `Nest.js` `GraphQL` `Firebase` `AWS` `JDBC` `JNDI`
 
-**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+**Testing:** `JUnit` `Jasmine` `Karma` `Postman` 
 
-**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
-
-
-Front-end development: :grinning:
-<div style="background-color: #f0f0f0; padding: 20px;">
-  <p style="color: blue; font-weight: bold;">Styled Div</p>
-  <p style="font-style: italic;">This is a styled div element in a GitHub README.</p>
-</div>
-
+**Others:** `GIT` `GitHub` `Selenium` `Scrum` `Jira`
 
 ## 📫 Let's Connect!
 
