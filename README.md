@@ -6,14 +6,19 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 <br />Being a hands-on learner, I prefer learning new technologies through development, constantly exploring and tinkering with technology to build exciting projects, read tech blogs and solve problems on Data Structures and Algorithms.
 
 ## 📦 Toolbox
-| Item         |
-|--------------|
-| Storybook    |
-| Zustand      |
-| A11y         |
-| Scrum        |
-| Confluence   |
-| Jira         |
+<!-- Create a div to contain the row -->
+<div style="display: flex;">
+
+  <!-- Each item is enclosed within a div with styling for a box -->
+  <div style="border: 1px solid black; padding: 5px; margin-right: 10px;">Storybook</div>
+  <div style="border: 1px solid black; padding: 5px; margin-right: 10px;">Zustand</div>
+  <div style="border: 1px solid black; padding: 5px; margin-right: 10px;">A11y</div>
+  <div style="border: 1px solid black; padding: 5px; margin-right: 10px;">Scrum</div>
+  <div style="border: 1px solid black; padding: 5px; margin-right: 10px;">Confluence</div>
+  <div style="border: 1px solid black; padding: 5px;">Jira</div>
+
+</div>
+
 
 
 
