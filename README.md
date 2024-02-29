@@ -14,7 +14,7 @@ Being a hands-on learner, I prefer learning new technologies through development
 
 **Testing:** `JUnit` `Jasmine` `Karma` `Postman` 
 
-**Others:** `GIT` `GitHub` `Selenium` `Scrum` `Jira`
+**Others:** `GitHub` `Selenium` `Scrum` `Jira`
 
 ## 📫 Let's Connect!
 
