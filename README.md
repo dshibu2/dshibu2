@@ -24,9 +24,9 @@ Front-end development: :grinning:
 </div>
 
 
-## Let's Connect!
+## 📫 Let's Connect!
 
-📫 Feel free to reach out to me through: [LinkedIn](https://www.linkedin.com/in/diya-shibu-1a9s9d7f)
+Feel free to reach out to me through: [LinkedIn](https://www.linkedin.com/in/diya-shibu-1a9s9d7f)
 
 <!--
 **dshibu2/dshibu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
