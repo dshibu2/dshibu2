@@ -6,10 +6,15 @@ I'm a Full Stack Developer based in the U.S., from Chicago, and I'm passionate a
 <br />Being a hands-on learner, I prefer learning new technologies through development, constantly exploring and tinkering with technology to build exciting projects, read tech blogs and solve problems on Data Structures and Algorithms.
 
 ## 📦 Toolbox
-| - | - |
-| **Text**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum | **Text** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum |
+**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+ 
+**Version Control:** `Git` `GitLab` `Bitbucket`
 
+**Backend Development:** `Nest.js` `GraphQL` `Firebase` 
 
+**Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
+
+**Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
 
 
 Front-end development: :grinning:
